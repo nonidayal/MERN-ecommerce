@@ -1,0 +1,67 @@
+const products = [
+  {
+    _id: "1",
+    name: "boAt",
+    description: "Pink Airdopes 131 M TWS Wireless Earbuds",
+    brand: "boAt",
+    category: "Electronics",
+    image: "/images/airpod.jpg",
+    price: 89.45,
+    rating: 4.7,
+    numReviews: 5,
+    countInStock: 3,
+  },
+  {
+    _id: "2",
+    name: "Amazon Alexa",
+    description:
+      "Echo Dot (4th Gen, 2020 release)| Smart speaker with Alexa (Blue)",
+    brand: "Amazon",
+    category: "Electronics",
+    image: "/images/alexa.jpg",
+    price: 89.45,
+    rating: 3.7,
+    numReviews: 5,
+    countInStock: 5,
+  },
+  {
+    _id: "3",
+    name: "OnePlus Nord 2T",
+    description: "OnePlus Nord 2T (12GB RAM + 256GB)",
+    brand: "OnePlus",
+    category: "Electronics",
+    image: "/images/mobile.jpg",
+    price: 89.45,
+    rating: 2.5,
+    numReviews: 5,
+    countInStock: 8,
+  },
+  {
+    _id: "4",
+    name: "Sansung 55inch",
+    description:
+      "Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+    brand: "Samsung",
+    category: "Electronics",
+    image: "/images/tv.jpg",
+    price: 89.45,
+    rating: 4.7,
+    numReviews: 5,
+    countInStock: 98,
+  },
+  {
+    _id: "5",
+    name: "Apple Watch",
+    description:
+      "Apple Watch Series 8 GPS 45mm Midnight Aluminium Case with Midnight Sport Band - Regular",
+    brand: "Apple",
+    category: "Electronics",
+    image: "/images/watch.jpg",
+    price: 89.45,
+    rating: 4.7,
+    numReviews: 5,
+    countInStock: 300,
+  },
+];
+
+export default products;

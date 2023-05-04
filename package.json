@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN Ecommerce App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonidayal/MERN-ecommerce.git"
+  },
+  "author": "Noni Dalal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonidayal/MERN-ecommerce/issues"
+  },
+  "homepage": "https://github.com/nonidayal/MERN-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
